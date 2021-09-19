@@ -1,0 +1,9 @@
+2021-09-19 15:49:12.347 [main] INFO  model.Application - I am new info
+2021-09-19 15:49:12.349 [main] ERROR model.Application - I am new error
+2021-09-19 15:49:12.349 [main] DEBUG model.Application - I am new debug
+2021-09-19 15:49:52.391 [main] ERROR model.Application - I am new error
+2021-09-19 15:50:03.864 [main] INFO  model.Application - I am new info
+2021-09-19 15:50:03.866 [main] ERROR model.Application - I am new error
+2021-09-19 15:50:17.919 [main] INFO  model.Application - I am new info
+2021-09-19 15:50:17.921 [main] ERROR model.Application - I am new error
+2021-09-19 15:50:17.921 [main] DEBUG model.Application - I am new debug

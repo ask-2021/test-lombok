@@ -1,0 +1,3 @@
+2021-09-18 17:48:47.411 [main] INFO  model.Application - I am new info
+2021-09-18 17:48:47.414 [main] ERROR model.Application - I am new error
+2021-09-18 17:48:47.414 [main] DEBUG model.Application - I am new debug
